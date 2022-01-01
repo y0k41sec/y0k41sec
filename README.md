@@ -1,6 +1,6 @@
 ### Hi there, I'm Jojo 👋 
 
-## I'm a security engineer!!
+## I'm a security engineer!
 
 - 🌱 I’m currently learning to code python and bash
 - 👯 I’m looking to collaborate with the commmunity
