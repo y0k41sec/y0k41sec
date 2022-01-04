@@ -16,8 +16,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="y0k41sec | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/jonathan-goya-nogiri-2852b028/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<https://www.linkedin.com/in/jonathan-goya-nogiri-2852b028/?locale=en_US>
 
 ![snake gif](https://github.com/y0k41sec/y0k41sec/blob/output/github-contribution-grid-snake.gif)
