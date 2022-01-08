@@ -7,8 +7,8 @@
 - 🎯 2022 Goals: Contribute more to Open Source projects
 - 📸 Fun fact: I like to take pictures with old cameras
   
-<img align="center"  width="500" height="600" src="https://github-readme-stats.vercel.app/api?username=y0k41sec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img align="center" width="500" height="600" src=https://github-readme-stats.vercel.app/api/top-langs/?username=y0k41sec&layout=compact&langs_count=7&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=y0k41sec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=y0k41sec&layout=compact&langs_count=7&theme=tokyonight" />
 
 ### Connect with me:
 
