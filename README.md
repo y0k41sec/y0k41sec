@@ -8,10 +8,10 @@
 - 📸 Fun fact: I like to take pictures with old cameras
   
 <a href="https://github.com/y0k41sec/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=y0k41sec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img align="center"  width="500" height="600" src="https://github-readme-stats.vercel.app/api?username=y0k41sec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/y0k41sec/tokyonight">
-  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=y0k41sec&layout=compact&langs_count=7&theme=tokyonight" />
+  <img align="center"  width="500" height="600" src=https://github-readme-stats.vercel.app/api/top-langs/?username=y0k41sec&layout=compact&langs_count=7&theme=tokyonight" />
 </a>
 
 ### Connect with me:
