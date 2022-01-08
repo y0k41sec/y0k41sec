@@ -14,10 +14,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0k41sec&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/tokyonight/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y0k41sec&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/tokyonight/tokyonight">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y0k41sec&repo=tokyonight" />
 </a>
 
