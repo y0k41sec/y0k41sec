@@ -8,10 +8,6 @@
 - 📸 Fun fact: I like to take pictures with old cameras
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Blender" height="30" width="40" 
-src="https://download.blender.org/branding/community/blender_community_badge_white.svg" />
-  <img align="center" alt="Behance" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />
   <img align="center" alt="Behance" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" alt="Python" height="30" width="40" 
@@ -20,6 +16,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 
+  ##
+  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=y0k41sec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=y0k41sec&layout=compact&langs_count=7&theme=tokyonight" />
 
