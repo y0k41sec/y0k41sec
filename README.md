@@ -23,7 +23,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/jonathan-goya-nogiri-2852b028/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/jonathan-n-2852b028/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
 ![snake gif](https://github.com/y0k41sec/y0k41sec/blob/output/github-contribution-grid-snake.gif)
