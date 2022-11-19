@@ -16,6 +16,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Go" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+   <img align="center" alt="Go" height="30" width="40" 
+src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Cloudflare_Logo.svg" />
 </div>
 
   ##
