@@ -15,6 +15,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
   <img align="center" alt="Linux" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
+  <img align="center" alt="Go" height="30" width="40" 
+src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svgg" />
+</div>
 
   ##
   
