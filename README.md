@@ -22,7 +22,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Cloudflare_Logo.svg" />
 
   ##
   
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=y0k41sec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+[![y0k41sec's GitHub stats](https://github-readme-stats.vercel.app/api?username=y0k41sec)](https://github.com/y0k41sec/github-readme-stats)
 <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=y0k41sec&layout=compact&langs_count=7&theme=tokyonight" />
 
 ### Connect with me:
